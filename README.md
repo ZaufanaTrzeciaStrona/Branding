@@ -20,6 +20,18 @@ lub przejrzeć zakładkę Releases, jeżeli jara Cię WeRsJoNoWaNiE.
 |-------------------------------------------------------------|-------------------------------------------------------------|
 | ![Zaufana Trzecia Strona](./assets/no-bg/z3s-variant-c.svg) | ![Zaufana Trzecia Strona](./assets/no-bg/z3s-variant-d.svg) |
 
+## Bez tła, ciemny napis (.png)
+
+| ![Zaufana Trzecia Strona](./assets/no-bg-black/z3s-variant-a.png) | ![Zaufana Trzecia Strona](./assets/no-bg-black/z3s-variant-b.png) |
+|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| ![Zaufana Trzecia Strona](./assets/no-bg-black/z3s-variant-c.png) | ![Zaufana Trzecia Strona](./assets/no-bg-black/z3s-variant-d.png) |
+
+## Bez tła, ciemny napis (.svg)
+
+| ![Zaufana Trzecia Strona](./assets/no-bg-black/z3s-variant-a.svg) | ![Zaufana Trzecia Strona](./assets/no-bg-black/z3s-variant-b.svg) |
+|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| ![Zaufana Trzecia Strona](./assets/no-bg-black/z3s-variant-c.svg) | ![Zaufana Trzecia Strona](./assets/no-bg-black/z3s-variant-d.svg) |
+
 ## Granatowe tło (.png)
 
 | ![Zaufana Trzecia Strona](./assets/bg/z3s-variant-a.png) | ![Zaufana Trzecia Strona](./assets/bg/z3s-variant-b.png) |
