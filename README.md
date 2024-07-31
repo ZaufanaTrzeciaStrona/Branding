@@ -62,6 +62,7 @@ lub przejrzeć zakładkę Releases, jeżeli jara Cię WeRsJoNoWaNiE.
 |-------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|
 | ![Zaufana Trzecia Strona](./assets/website/z3s-symbol-red.svg)    | ![Zaufana Trzecia Strona](./assets/website/z3s-logo_light1.svg)  | ![Zaufana Trzecia Strona](./assets/website/z3s-logo.svg)        |
 | ![Zaufana Trzecia Strona](./assets/website/z3s-symbol-bg.svg)     | ![Zaufana Trzecia Strona](./assets/website/z3s-symbol-black.svg) | ![Zaufana Trzecia Strona](./assets/website/z3s-logo_light2.svg) |
+| ![Zaufana Trzecia Strona](./assets/website/z3s-logo-cut.png)      |                                                                  |
 
 ## Avatary
 
